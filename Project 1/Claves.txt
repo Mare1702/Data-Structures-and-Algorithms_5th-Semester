@@ -1,0 +1,10 @@
+Juan, Perez Gomez, 303030
+Luis Alberto, Gomez Lopez, 123456
+Jose, Mendez Rodriguez, 987652
+Edwin, Arroyo Cervantes, 975664
+Luis Antonio, Arias Quintero, 346558
+Guillermo, Garibalidi Cervantes, 964832
+Edgar, Tista Garcia, 645328
+Sergio, Ramos Garcia,140604
+Achraf, Hakimi Perez, 265946
+Julian Vicente, Araujo alonso, 130801
