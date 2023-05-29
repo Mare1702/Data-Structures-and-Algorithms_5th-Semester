@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ACTIVIDAD_2POO09Practica02EQ06/1.0.0": {
+        "runtime": {
+          "ACTIVIDAD_2POO09Practica02EQ06.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ACTIVIDAD_2POO09Practica02EQ06/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

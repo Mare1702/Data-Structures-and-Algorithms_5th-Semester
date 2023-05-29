@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Mare/Desktop/Proyectos C#/Actividad3Practicaa3/Actividad3Practicaa3.csproj": {}
+  },
+  "projects": {
+    "/Users/Mare/Desktop/Proyectos C#/Actividad3Practicaa3/Actividad3Practicaa3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Mare/Desktop/Proyectos C#/Actividad3Practicaa3/Actividad3Practicaa3.csproj",
+        "projectName": "Actividad3Practicaa3",
+        "projectPath": "/Users/Mare/Desktop/Proyectos C#/Actividad3Practicaa3/Actividad3Practicaa3.csproj",
+        "packagesPath": "/Users/Mare/.nuget/packages/",
+        "outputPath": "/Users/Mare/Desktop/Proyectos C#/Actividad3Practicaa3/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Mare/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

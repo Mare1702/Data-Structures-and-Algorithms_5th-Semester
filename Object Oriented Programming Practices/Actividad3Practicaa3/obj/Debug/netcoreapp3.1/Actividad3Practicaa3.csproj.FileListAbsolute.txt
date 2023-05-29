@@ -1,0 +1,13 @@
+/Users/Mare/Desktop/Proyectos C#/Actividad3Practicaa3/bin/Debug/netcoreapp3.1/Actividad3Practicaa3.deps.json
+/Users/Mare/Desktop/Proyectos C#/Actividad3Practicaa3/bin/Debug/netcoreapp3.1/Actividad3Practicaa3.runtimeconfig.json
+/Users/Mare/Desktop/Proyectos C#/Actividad3Practicaa3/bin/Debug/netcoreapp3.1/Actividad3Practicaa3.runtimeconfig.dev.json
+/Users/Mare/Desktop/Proyectos C#/Actividad3Practicaa3/bin/Debug/netcoreapp3.1/Actividad3Practicaa3.dll
+/Users/Mare/Desktop/Proyectos C#/Actividad3Practicaa3/bin/Debug/netcoreapp3.1/Actividad3Practicaa3.pdb
+/Users/Mare/Desktop/Proyectos C#/Actividad3Practicaa3/obj/Debug/netcoreapp3.1/Actividad3Practicaa3.csproj.AssemblyReference.cache
+/Users/Mare/Desktop/Proyectos C#/Actividad3Practicaa3/obj/Debug/netcoreapp3.1/Actividad3Practicaa3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Mare/Desktop/Proyectos C#/Actividad3Practicaa3/obj/Debug/netcoreapp3.1/Actividad3Practicaa3.AssemblyInfoInputs.cache
+/Users/Mare/Desktop/Proyectos C#/Actividad3Practicaa3/obj/Debug/netcoreapp3.1/Actividad3Practicaa3.AssemblyInfo.cs
+/Users/Mare/Desktop/Proyectos C#/Actividad3Practicaa3/obj/Debug/netcoreapp3.1/Actividad3Practicaa3.csproj.CoreCompileInputs.cache
+/Users/Mare/Desktop/Proyectos C#/Actividad3Practicaa3/obj/Debug/netcoreapp3.1/Actividad3Practicaa3.dll
+/Users/Mare/Desktop/Proyectos C#/Actividad3Practicaa3/obj/Debug/netcoreapp3.1/Actividad3Practicaa3.pdb
+/Users/Mare/Desktop/Proyectos C#/Actividad3Practicaa3/obj/Debug/netcoreapp3.1/Actividad3Practicaa3.genruntimeconfig.cache

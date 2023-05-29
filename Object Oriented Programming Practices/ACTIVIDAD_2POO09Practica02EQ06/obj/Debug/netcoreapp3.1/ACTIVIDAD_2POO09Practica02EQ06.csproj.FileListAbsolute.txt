@@ -1,0 +1,13 @@
+/Users/Mare/Desktop/Proyectos C#/ACTIVIDAD_2POO09Practica02EQ06/bin/Debug/netcoreapp3.1/ACTIVIDAD_2POO09Practica02EQ06.deps.json
+/Users/Mare/Desktop/Proyectos C#/ACTIVIDAD_2POO09Practica02EQ06/bin/Debug/netcoreapp3.1/ACTIVIDAD_2POO09Practica02EQ06.runtimeconfig.json
+/Users/Mare/Desktop/Proyectos C#/ACTIVIDAD_2POO09Practica02EQ06/bin/Debug/netcoreapp3.1/ACTIVIDAD_2POO09Practica02EQ06.runtimeconfig.dev.json
+/Users/Mare/Desktop/Proyectos C#/ACTIVIDAD_2POO09Practica02EQ06/bin/Debug/netcoreapp3.1/ACTIVIDAD_2POO09Practica02EQ06.dll
+/Users/Mare/Desktop/Proyectos C#/ACTIVIDAD_2POO09Practica02EQ06/bin/Debug/netcoreapp3.1/ACTIVIDAD_2POO09Practica02EQ06.pdb
+/Users/Mare/Desktop/Proyectos C#/ACTIVIDAD_2POO09Practica02EQ06/obj/Debug/netcoreapp3.1/ACTIVIDAD_2POO09Practica02EQ06.csproj.AssemblyReference.cache
+/Users/Mare/Desktop/Proyectos C#/ACTIVIDAD_2POO09Practica02EQ06/obj/Debug/netcoreapp3.1/ACTIVIDAD_2POO09Practica02EQ06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Mare/Desktop/Proyectos C#/ACTIVIDAD_2POO09Practica02EQ06/obj/Debug/netcoreapp3.1/ACTIVIDAD_2POO09Practica02EQ06.AssemblyInfoInputs.cache
+/Users/Mare/Desktop/Proyectos C#/ACTIVIDAD_2POO09Practica02EQ06/obj/Debug/netcoreapp3.1/ACTIVIDAD_2POO09Practica02EQ06.AssemblyInfo.cs
+/Users/Mare/Desktop/Proyectos C#/ACTIVIDAD_2POO09Practica02EQ06/obj/Debug/netcoreapp3.1/ACTIVIDAD_2POO09Practica02EQ06.csproj.CoreCompileInputs.cache
+/Users/Mare/Desktop/Proyectos C#/ACTIVIDAD_2POO09Practica02EQ06/obj/Debug/netcoreapp3.1/ACTIVIDAD_2POO09Practica02EQ06.dll
+/Users/Mare/Desktop/Proyectos C#/ACTIVIDAD_2POO09Practica02EQ06/obj/Debug/netcoreapp3.1/ACTIVIDAD_2POO09Practica02EQ06.pdb
+/Users/Mare/Desktop/Proyectos C#/ACTIVIDAD_2POO09Practica02EQ06/obj/Debug/netcoreapp3.1/ACTIVIDAD_2POO09Practica02EQ06.genruntimeconfig.cache
