@@ -1,0 +1,26 @@
+/Users/Mare/Desktop/Proyectos C#/ProyectoFinalPOO/bin/Debug/netcoreapp3.1/ProyectoFinalPOO.deps.json
+/Users/Mare/Desktop/Proyectos C#/ProyectoFinalPOO/bin/Debug/netcoreapp3.1/ProyectoFinalPOO.runtimeconfig.json
+/Users/Mare/Desktop/Proyectos C#/ProyectoFinalPOO/bin/Debug/netcoreapp3.1/ProyectoFinalPOO.runtimeconfig.dev.json
+/Users/Mare/Desktop/Proyectos C#/ProyectoFinalPOO/bin/Debug/netcoreapp3.1/ProyectoFinalPOO.dll
+/Users/Mare/Desktop/Proyectos C#/ProyectoFinalPOO/bin/Debug/netcoreapp3.1/ProyectoFinalPOO.pdb
+/Users/Mare/Desktop/Proyectos C#/ProyectoFinalPOO/obj/Debug/netcoreapp3.1/ProyectoFinalPOO.csproj.AssemblyReference.cache
+/Users/Mare/Desktop/Proyectos C#/ProyectoFinalPOO/obj/Debug/netcoreapp3.1/ProyectoFinalPOO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Mare/Desktop/Proyectos C#/ProyectoFinalPOO/obj/Debug/netcoreapp3.1/ProyectoFinalPOO.AssemblyInfoInputs.cache
+/Users/Mare/Desktop/Proyectos C#/ProyectoFinalPOO/obj/Debug/netcoreapp3.1/ProyectoFinalPOO.AssemblyInfo.cs
+/Users/Mare/Desktop/Proyectos C#/ProyectoFinalPOO/obj/Debug/netcoreapp3.1/ProyectoFinalPOO.csproj.CoreCompileInputs.cache
+/Users/Mare/Desktop/Proyectos C#/ProyectoFinalPOO/obj/Debug/netcoreapp3.1/ProyectoFinalPOO.dll
+/Users/Mare/Desktop/Proyectos C#/ProyectoFinalPOO/obj/Debug/netcoreapp3.1/ProyectoFinalPOO.pdb
+/Users/Mare/Desktop/Proyectos C#/ProyectoFinalPOO/obj/Debug/netcoreapp3.1/ProyectoFinalPOO.genruntimeconfig.cache
+/Users/Mare/Desktop/5to SEMESTRE/Proyectos C#/ProyectoFinalPOO/bin/Debug/netcoreapp3.1/ProyectoFinalPOO.deps.json
+/Users/Mare/Desktop/5to SEMESTRE/Proyectos C#/ProyectoFinalPOO/bin/Debug/netcoreapp3.1/ProyectoFinalPOO.runtimeconfig.json
+/Users/Mare/Desktop/5to SEMESTRE/Proyectos C#/ProyectoFinalPOO/bin/Debug/netcoreapp3.1/ProyectoFinalPOO.runtimeconfig.dev.json
+/Users/Mare/Desktop/5to SEMESTRE/Proyectos C#/ProyectoFinalPOO/bin/Debug/netcoreapp3.1/ProyectoFinalPOO.dll
+/Users/Mare/Desktop/5to SEMESTRE/Proyectos C#/ProyectoFinalPOO/bin/Debug/netcoreapp3.1/ProyectoFinalPOO.pdb
+/Users/Mare/Desktop/5to SEMESTRE/Proyectos C#/ProyectoFinalPOO/obj/Debug/netcoreapp3.1/ProyectoFinalPOO.csproj.AssemblyReference.cache
+/Users/Mare/Desktop/5to SEMESTRE/Proyectos C#/ProyectoFinalPOO/obj/Debug/netcoreapp3.1/ProyectoFinalPOO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Mare/Desktop/5to SEMESTRE/Proyectos C#/ProyectoFinalPOO/obj/Debug/netcoreapp3.1/ProyectoFinalPOO.AssemblyInfoInputs.cache
+/Users/Mare/Desktop/5to SEMESTRE/Proyectos C#/ProyectoFinalPOO/obj/Debug/netcoreapp3.1/ProyectoFinalPOO.AssemblyInfo.cs
+/Users/Mare/Desktop/5to SEMESTRE/Proyectos C#/ProyectoFinalPOO/obj/Debug/netcoreapp3.1/ProyectoFinalPOO.csproj.CoreCompileInputs.cache
+/Users/Mare/Desktop/5to SEMESTRE/Proyectos C#/ProyectoFinalPOO/obj/Debug/netcoreapp3.1/ProyectoFinalPOO.dll
+/Users/Mare/Desktop/5to SEMESTRE/Proyectos C#/ProyectoFinalPOO/obj/Debug/netcoreapp3.1/ProyectoFinalPOO.pdb
+/Users/Mare/Desktop/5to SEMESTRE/Proyectos C#/ProyectoFinalPOO/obj/Debug/netcoreapp3.1/ProyectoFinalPOO.genruntimeconfig.cache

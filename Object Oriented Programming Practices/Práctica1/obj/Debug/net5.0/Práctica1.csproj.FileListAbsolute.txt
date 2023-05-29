@@ -1,0 +1,15 @@
+/Users/Mare/Desktop/Proyectos C#/Práctica1/bin/Debug/net5.0/Práctica1.deps.json
+/Users/Mare/Desktop/Proyectos C#/Práctica1/bin/Debug/net5.0/Práctica1.runtimeconfig.json
+/Users/Mare/Desktop/Proyectos C#/Práctica1/bin/Debug/net5.0/Práctica1.runtimeconfig.dev.json
+/Users/Mare/Desktop/Proyectos C#/Práctica1/bin/Debug/net5.0/Práctica1.dll
+/Users/Mare/Desktop/Proyectos C#/Práctica1/bin/Debug/net5.0/ref/Práctica1.dll
+/Users/Mare/Desktop/Proyectos C#/Práctica1/bin/Debug/net5.0/Práctica1.pdb
+/Users/Mare/Desktop/Proyectos C#/Práctica1/obj/Debug/net5.0/Práctica1.csproj.AssemblyReference.cache
+/Users/Mare/Desktop/Proyectos C#/Práctica1/obj/Debug/net5.0/Práctica1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Mare/Desktop/Proyectos C#/Práctica1/obj/Debug/net5.0/Práctica1.AssemblyInfoInputs.cache
+/Users/Mare/Desktop/Proyectos C#/Práctica1/obj/Debug/net5.0/Práctica1.AssemblyInfo.cs
+/Users/Mare/Desktop/Proyectos C#/Práctica1/obj/Debug/net5.0/Práctica1.csproj.CoreCompileInputs.cache
+/Users/Mare/Desktop/Proyectos C#/Práctica1/obj/Debug/net5.0/Práctica1.dll
+/Users/Mare/Desktop/Proyectos C#/Práctica1/obj/Debug/net5.0/ref/Práctica1.dll
+/Users/Mare/Desktop/Proyectos C#/Práctica1/obj/Debug/net5.0/Práctica1.pdb
+/Users/Mare/Desktop/Proyectos C#/Práctica1/obj/Debug/net5.0/Práctica1.genruntimeconfig.cache

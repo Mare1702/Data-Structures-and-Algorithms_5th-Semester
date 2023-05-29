@@ -1,0 +1,13 @@
+/Users/Mare/Desktop/Proyectos C#/P8.10-Act4/bin/Debug/netcoreapp3.1/P8.10-Act4.deps.json
+/Users/Mare/Desktop/Proyectos C#/P8.10-Act4/bin/Debug/netcoreapp3.1/P8.10-Act4.runtimeconfig.json
+/Users/Mare/Desktop/Proyectos C#/P8.10-Act4/bin/Debug/netcoreapp3.1/P8.10-Act4.runtimeconfig.dev.json
+/Users/Mare/Desktop/Proyectos C#/P8.10-Act4/bin/Debug/netcoreapp3.1/P8.10-Act4.dll
+/Users/Mare/Desktop/Proyectos C#/P8.10-Act4/bin/Debug/netcoreapp3.1/P8.10-Act4.pdb
+/Users/Mare/Desktop/Proyectos C#/P8.10-Act4/obj/Debug/netcoreapp3.1/P8.10-Act4.csproj.AssemblyReference.cache
+/Users/Mare/Desktop/Proyectos C#/P8.10-Act4/obj/Debug/netcoreapp3.1/P8.10-Act4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Mare/Desktop/Proyectos C#/P8.10-Act4/obj/Debug/netcoreapp3.1/P8.10-Act4.AssemblyInfoInputs.cache
+/Users/Mare/Desktop/Proyectos C#/P8.10-Act4/obj/Debug/netcoreapp3.1/P8.10-Act4.AssemblyInfo.cs
+/Users/Mare/Desktop/Proyectos C#/P8.10-Act4/obj/Debug/netcoreapp3.1/P8.10-Act4.csproj.CoreCompileInputs.cache
+/Users/Mare/Desktop/Proyectos C#/P8.10-Act4/obj/Debug/netcoreapp3.1/P8.10-Act4.dll
+/Users/Mare/Desktop/Proyectos C#/P8.10-Act4/obj/Debug/netcoreapp3.1/P8.10-Act4.pdb
+/Users/Mare/Desktop/Proyectos C#/P8.10-Act4/obj/Debug/netcoreapp3.1/P8.10-Act4.genruntimeconfig.cache
