@@ -1,0 +1,15 @@
+/Users/Mare/Desktop/Proyectos C#/Actividad4P4/bin/Debug/net5.0/Actividad4P4.deps.json
+/Users/Mare/Desktop/Proyectos C#/Actividad4P4/bin/Debug/net5.0/Actividad4P4.runtimeconfig.json
+/Users/Mare/Desktop/Proyectos C#/Actividad4P4/bin/Debug/net5.0/Actividad4P4.runtimeconfig.dev.json
+/Users/Mare/Desktop/Proyectos C#/Actividad4P4/bin/Debug/net5.0/Actividad4P4.dll
+/Users/Mare/Desktop/Proyectos C#/Actividad4P4/bin/Debug/net5.0/ref/Actividad4P4.dll
+/Users/Mare/Desktop/Proyectos C#/Actividad4P4/bin/Debug/net5.0/Actividad4P4.pdb
+/Users/Mare/Desktop/Proyectos C#/Actividad4P4/obj/Debug/net5.0/Actividad4P4.csproj.AssemblyReference.cache
+/Users/Mare/Desktop/Proyectos C#/Actividad4P4/obj/Debug/net5.0/Actividad4P4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Mare/Desktop/Proyectos C#/Actividad4P4/obj/Debug/net5.0/Actividad4P4.AssemblyInfoInputs.cache
+/Users/Mare/Desktop/Proyectos C#/Actividad4P4/obj/Debug/net5.0/Actividad4P4.AssemblyInfo.cs
+/Users/Mare/Desktop/Proyectos C#/Actividad4P4/obj/Debug/net5.0/Actividad4P4.csproj.CoreCompileInputs.cache
+/Users/Mare/Desktop/Proyectos C#/Actividad4P4/obj/Debug/net5.0/Actividad4P4.dll
+/Users/Mare/Desktop/Proyectos C#/Actividad4P4/obj/Debug/net5.0/ref/Actividad4P4.dll
+/Users/Mare/Desktop/Proyectos C#/Actividad4P4/obj/Debug/net5.0/Actividad4P4.pdb
+/Users/Mare/Desktop/Proyectos C#/Actividad4P4/obj/Debug/net5.0/Actividad4P4.genruntimeconfig.cache
